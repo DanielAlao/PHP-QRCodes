@@ -1,0 +1,6 @@
+{
+    "require": {
+      "php": "^7.4.0",
+        "endroid/qr-code": "^4.4"
+    }
+  }
