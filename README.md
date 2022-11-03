@@ -20,7 +20,8 @@ This application, PHP-QRCodes is mainly built from the work of Giandonato Invers
 <h2>How to use</h2>
 <ul>
 <li>Clone project from github</li>
-<li>Edit config.php (in config folder) file by adding database configuration information</li>
+<li>Add <em>saved_qrcode</em> inside the <em>qrcode</em> directory 
+<li>Edit <em>config.php</em> (in config folder) file by adding database configuration information</li>
 <li>Create mysql database. You can find database tables in <em>qr_codes database table.txt</em></li>
 <li>Lauch app in browser to <em>login.php</em></li>
 </ul>
